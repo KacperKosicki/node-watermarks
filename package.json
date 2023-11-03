@@ -1,0 +1,13 @@
+{
+  "name": "node-watermarks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kacper Kosicki <kosickikacper1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4",
+    "mime": "^3.0.0",
+    "sharp": "^0.32.6"
+  }
+}
